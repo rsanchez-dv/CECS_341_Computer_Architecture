@@ -4,7 +4,7 @@
 */
 `timescale 1ns / 1ps
 
-module NewMux(In0,In1,Sel,Out);
+module Reg2LocMux(In0,In1,Sel,Out);
 	input [4:0] In0;	// Instruction [20-16] Input
 	input [4:0] In1;	// Instruction [9-5] Input
 	input  Sel; 		// Reg2Loc Input
