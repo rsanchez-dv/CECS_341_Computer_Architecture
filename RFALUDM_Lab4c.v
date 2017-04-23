@@ -57,7 +57,7 @@ module RFALUDM_Lab4c( WriteDataDM,MemWrite, Reg2Loc, Rm,Rt,MemRead, Clock,Read1,
 	 //---------------------------------------------------------------------------------------------------------
 	 mux			lab1b (.In0(ALU_Result), .In1( Mux_ReadData), .Out(Mux_WriteDataRF), .Sel(MemtoReg));
 	 //---------------------------------------------------------------------------------------------------------
-	 NewMux			lab1c (.In0(Rm), .In1( Rt), .Out(Mux_Read2), .Sel(Reg2Loc));
+	 Reg2LocMux		lab1c (.In0(Rm), .In1( Rt), .Out(Mux_Read2), .Sel(Reg2Loc));
 endmodule
 
 
