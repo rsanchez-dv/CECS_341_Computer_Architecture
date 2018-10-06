@@ -1,0 +1,7 @@
+verilog work "ProgramCounter.v"
+verilog work "Instruction_Memory.v"
+verilog work "Instruction_Decoder.v"
+verilog work "Adder.v"
+verilog work "PCIMID.v"
+verilog work "PCIMID_Tester.v"
+verilog work "C:/Xilinx_ISE_14.7/14.7/ISE_DS/ISE//verilog/src/glbl.v"

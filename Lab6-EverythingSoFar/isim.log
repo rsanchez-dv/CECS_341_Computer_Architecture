@@ -1,0 +1,598 @@
+ISim log file
+Running: E:\Lab6-EverythingSoFar\CPU_Tester_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb E:/Lab6-EverythingSoFar/CPU_Tester_isim_beh.wdb 
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: For instance uut/Lab4/, width 9 of formal port SEin is not equal to width 32 of actual.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: For instance uut/Lab4/, width 9 of formal port SEin is not equal to width 32 of actual.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: For instance uut/Lab4/, width 9 of formal port SEin is not equal to width 32 of actual.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: For instance uut/Lab4/, width 9 of formal port SEin is not equal to width 32 of actual.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: For instance uut/Lab4/, width 9 of formal port SEin is not equal to width 32 of actual.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: For instance uut/Lab4/, width 9 of formal port SEin is not equal to width 32 of actual.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: For instance uut/Lab4/, width 9 of formal port SEin is not equal to width 32 of actual.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 2.00us
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: For instance uut/Lab4/, width 9 of formal port SEin is not equal to width 32 of actual.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: For instance uut/Lab4/, width 9 of formal port SEin is not equal to width 32 of actual.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: For instance uut/Lab4/, width 9 of formal port SEin is not equal to width 32 of actual.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: For instance uut/Lab4/, width 9 of formal port SEin is not equal to width 32 of actual.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: For instance uut/Lab4/, width 9 of formal port SEin is not equal to width 32 of actual.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: For instance uut/Lab4/, width 9 of formal port SEin is not equal to width 32 of actual.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: For instance uut/Lab4/, width 9 of formal port SEin is not equal to width 32 of actual.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: For instance uut/Lab4/, width 9 of formal port SEin is not equal to width 32 of actual.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: For instance uut/Lab4/, width 9 of formal port SEin is not equal to width 32 of actual.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING: File "E:/Lab6-EverythingSoFar/PCIMID.v" Line 7.  For instance Lab5/Add/, width 64 of formal port Out is not equal to width 32 of actual signal count.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 31.  For instance Lab4/lab4a/, width 8 of formal port Address is not equal to width 64 of actual signal ALU_Result.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 19.  For instance Lab4/lab1a/, width 1 of formal port Sel is not equal to width 2 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 20.  For instance Lab4/lab1b/, width 1 of formal port Sel is not equal to width 2 of actual signal MemtoReg.
+WARNING: File "E:/Lab6-EverythingSoFar/RFALUDM_Lab4c.v" Line 24.  For instance Lab4/lab1c/, width 1 of formal port Sel is not equal to width 2 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 13.  For instance uut/Lab4/, width 2 of formal port Reg2Loc is not equal to width 1 of actual signal Reg2Loc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 19.  For instance uut/Lab4/, width 2 of formal port ALUSrc is not equal to width 1 of actual signal ALUSrc.
+WARNING: File "E:/Lab6-EverythingSoFar/CPU_Module.v" Line 16.  For instance uut/Lab4/, width 2 of formal port MemtoReg is not equal to width 1 of actual signal MemtoReg.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

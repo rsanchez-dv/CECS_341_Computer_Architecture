@@ -1,0 +1,30 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/Lab5-ControlUnit/PCIMID_Tester_isim_beh.exe" -prj "E:/Lab5-ControlUnit/PCIMID_Tester_beh.prj" "work.PCIMID_Tester" "work.glbl" 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/Lab5-ControlUnit/ProgramCounter.v" into library work
+Analyzing Verilog file "E:/Lab5-ControlUnit/Instruction_Memory.v" into library work
+Analyzing Verilog file "E:/Lab5-ControlUnit/Instruction_Decoder.v" into library work
+Analyzing Verilog file "E:/Lab5-ControlUnit/Adder.v" into library work
+Analyzing Verilog file "E:/Lab5-ControlUnit/PCIMID.v" into library work
+Analyzing Verilog file "E:/Lab5-ControlUnit/PCIMID_Tester.v" into library work
+Analyzing Verilog file "C:/Xilinx_ISE_14.7/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:189 - "E:/Lab5-ControlUnit/PCIMID.v" Line 16: Size mismatch in connection of port <Out>. Formal port size is 64-bit while actual signal size is 32-bit.
+Completed static elaboration
+Fuse Memory Usage: 104764 KB
+Fuse CPU Usage: 373 ms
+Compiling module Instruction_Decoder
+Compiling module Instruction_Memory
+Compiling module ProgramCounter
+Compiling module Adder
+Compiling module PCIMID
+Compiling module PCIMID_Tester
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 7 Verilog Units
+Built simulation executable E:/Lab5-ControlUnit/PCIMID_Tester_isim_beh.exe
+Fuse Memory Usage: 109356 KB
+Fuse CPU Usage: 420 ms

@@ -1,0 +1,30 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/CPU_Tester_isim_beh.exe -prj C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/CPU_Tester_beh.prj work.CPU_Tester work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/SignExtendor.v" into library work
+Analyzing Verilog file "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/RegisterFile.v" into library work
+Analyzing Verilog file "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/ProgramCounter.v" into library work
+Analyzing Verilog file "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/NewMux.v" into library work
+Analyzing Verilog file "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/mux.v" into library work
+Analyzing Verilog file "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/LEGv8.v" into library work
+Analyzing Verilog file "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/Instruction_Memory.v" into library work
+Analyzing Verilog file "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/Instruction_Decoder.v" into library work
+Analyzing Verilog file "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/DataMemory.v" into library work
+Analyzing Verilog file "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/BranchMultiplexer.v" into library work
+Analyzing Verilog file "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/ANDGate.v" into library work
+Analyzing Verilog file "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/ALUControl.v" into library work
+WARNING:HDLCompiler:568 - "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/ALUControl.v" Line 9: Constant value is truncated to fit in <11> bits.
+WARNING:HDLCompiler:568 - "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/ALUControl.v" Line 10: Constant value is truncated to fit in <11> bits.
+WARNING:HDLCompiler:568 - "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/ALUControl.v" Line 11: Constant value is truncated to fit in <11> bits.
+WARNING:HDLCompiler:568 - "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/ALUControl.v" Line 12: Constant value is truncated to fit in <11> bits.
+WARNING:HDLCompiler:568 - "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/ALUControl.v" Line 13: Constant value is truncated to fit in <11> bits.
+WARNING:HDLCompiler:568 - "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/ALUControl.v" Line 14: Constant value is truncated to fit in <11> bits.
+WARNING:HDLCompiler:568 - "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/ALUControl.v" Line 15: Constant value is truncated to fit in <11> bits.
+Analyzing Verilog file "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/Adder2.v" into library work
+Analyzing Verilog file "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/Adder.v" into library work
+Analyzing Verilog file "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/CPU_Module.v" into library work
+ERROR:HDLCompiler:69 - "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/CPU_Module.v" Line 9: <count> is not declared.
+ERROR:HDLCompiler:598 - "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/CPU_Module.v" Line 9: Module <CPU_Module> ignored due to previous errors.
+Verilog file C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/CPU_Module.v ignored due to errors

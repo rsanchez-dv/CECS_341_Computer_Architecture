@@ -1,0 +1,42 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/Lab4-Memory/LAB4C_Tester_isim_beh.exe" -prj "E:/Lab4-Memory/LAB4C_Tester_beh.prj" "work.LAB4C_Tester" "work.glbl" 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/Lab4-Memory/SignExtendor.v" into library work
+Analyzing Verilog file "E:/Lab4-Memory/RegisterFile.v" into library work
+Analyzing Verilog file "E:/Lab4-Memory/mux.v" into library work
+Analyzing Verilog file "E:/Lab4-Memory/LEGv8.v" into library work
+Analyzing Verilog file "E:/Lab4-Memory/DataMemory.v" into library work
+Analyzing Verilog file "E:/Lab4-Memory/ALUControl.v" into library work
+WARNING:HDLCompiler:568 - "E:/Lab4-Memory/ALUControl.v" Line 9: Constant value is truncated to fit in <11> bits.
+WARNING:HDLCompiler:568 - "E:/Lab4-Memory/ALUControl.v" Line 10: Constant value is truncated to fit in <11> bits.
+WARNING:HDLCompiler:568 - "E:/Lab4-Memory/ALUControl.v" Line 11: Constant value is truncated to fit in <11> bits.
+WARNING:HDLCompiler:568 - "E:/Lab4-Memory/ALUControl.v" Line 12: Constant value is truncated to fit in <11> bits.
+WARNING:HDLCompiler:568 - "E:/Lab4-Memory/ALUControl.v" Line 13: Constant value is truncated to fit in <11> bits.
+WARNING:HDLCompiler:568 - "E:/Lab4-Memory/ALUControl.v" Line 14: Constant value is truncated to fit in <11> bits.
+Analyzing Verilog file "E:/Lab4-Memory/RFALUDM_Lab4c.v" into library work
+Analyzing Verilog file "E:/Lab4-Memory/LAB4C_Tester.v" into library work
+WARNING:HDLCompiler:568 - "E:/Lab4-Memory/LAB4C_Tester.v" Line 187: Constant value is truncated to fit in <11> bits.
+Analyzing Verilog file "C:/Xilinx_ISE_14.7/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:189 - "E:/Lab4-Memory/RFALUDM_Lab4c.v" Line 60: Size mismatch in connection of port <In0>. Formal port size is 64-bit while actual signal size is 5-bit.
+WARNING:HDLCompiler:189 - "E:/Lab4-Memory/RFALUDM_Lab4c.v" Line 48: Size mismatch in connection of port <Address>. Formal port size is 8-bit while actual signal size is 64-bit.
+Completed static elaboration
+Fuse Memory Usage: 105788 KB
+Fuse CPU Usage: 280 ms
+Compiling module RegisterFile
+Compiling module DataMemory
+Compiling module SignExtendor
+Compiling module LEGv8
+Compiling module ALUControl
+Compiling module mux
+Compiling module RFALUDM_Lab4c
+Compiling module LAB4C_Tester
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 4 sub-compilation(s) to finish...
+Compiled 9 Verilog Units
+Built simulation executable E:/Lab4-Memory/LAB4C_Tester_isim_beh.exe
+Fuse Memory Usage: 109356 KB
+Fuse CPU Usage: 296 ms
