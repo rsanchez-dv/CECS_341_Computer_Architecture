@@ -1,7 +1,0 @@
-verilog work "SignExtendor.v"
-verilog work "RegisterFile.v"
-verilog work "mux.v"
-verilog work "LEGv8.v"
-verilog work "DataMemory.v"
-verilog work "ALUControl.v"
-verilog work "RFALUDM.v"

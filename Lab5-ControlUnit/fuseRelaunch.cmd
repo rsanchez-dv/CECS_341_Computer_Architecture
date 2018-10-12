@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/Lab5-ControlUnit/PCIMID_Tester_isim_beh.exe" -prj "E:/Lab5-ControlUnit/PCIMID_Tester_beh.prj" "work.PCIMID_Tester" "work.glbl" 

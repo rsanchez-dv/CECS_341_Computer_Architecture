@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/CPU_Tester_isim_beh.exe" -prj "C:/Users/rsanc/Dropbox/Work/Spring 2017/CECS-341/341 labs/Lab7-Branch/CPU_Tester_beh.prj" "work.CPU_Tester" "work.glbl" 
